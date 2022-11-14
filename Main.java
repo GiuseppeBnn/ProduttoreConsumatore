@@ -29,6 +29,6 @@ public class Main {
         }else {
             System.out.println(containerMonitor.List);
         }
-        System.exit(12);
+        System.exit(1);
     }
 }
